@@ -13,10 +13,8 @@ A lot of my current projects here are for work, but I'm hoping to get more of my
 
 [TouCanBus](https://github.com/JsphByd/TOUCANbus) - Basic car hacking replay tool (WIP)!
 
-## Stats!
+
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JsphByd) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsphByd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsphByd&show_icons=true&theme=cobalt)
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JsphByd)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsphByd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
