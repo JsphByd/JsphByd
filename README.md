@@ -18,4 +18,10 @@ A lot of my current projects here are for work, but I'm hoping to get more of my
 
 [TouCanBus](https://github.com/JsphByd/TOUCANbus) - Basic car hacking replay tool (WIP)!
 
+## Stats!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsphByd&show_icons=true&theme=cobalt)
+
+
+
 
