@@ -23,5 +23,6 @@ A lot of my current projects here are for work, but I'm hoping to get more of my
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsphByd&show_icons=true&theme=cobalt)
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
