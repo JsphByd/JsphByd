@@ -1,9 +1,4 @@
-# Howdy!
-
-![Visitor Count](https://profile-counter.glitch.me/JsphByd/count.svg)
-
-
-## About me
+## Howdy!
 My name is Joseph Boyd! I'm a big fan of:
  - Silly projects
  - Cybersecurity
@@ -22,7 +17,5 @@ A lot of my current projects here are for work, but I'm hoping to get more of my
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JsphByd&show_icons=true&theme=cobalt)
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JsphByd)
 
