@@ -1,5 +1,7 @@
 # Howdy!
-![Visitor Count](https : //profile-counter.glitch.me/JsphByd/count.svg)
+
+[Visitor Count](https : //profile-counter.glitch.me/JsphByd/count.svg)
+
 ## About me
 My name is Joseph Boyd! I'm a big fan of:
  - Silly projects
