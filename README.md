@@ -19,3 +19,4 @@ A lot of my current projects here are for work, but I'm hoping to get more of my
 
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JsphByd)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsphByd&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
